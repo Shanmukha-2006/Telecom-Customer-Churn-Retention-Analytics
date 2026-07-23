@@ -52,7 +52,7 @@ The analysis helps identify:
 
 ## Author
 
-DEVALAMKATI SHANMUKHA
+**DEVALAMKATI SHANMUKHA**
 
 B.Tech CSE (Data Science)
 
